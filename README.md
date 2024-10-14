@@ -1,5 +1,5 @@
 # 💫 About Me:
-Currently working on my own football manager simulator<br>Currently learning Japanese
+Currently working on my first "big" hobby project, a Football Manager Simulator written in Java<br>
 
 
 # 💻 Tech Stack:
