@@ -1,5 +1,10 @@
 # 💫 About Me:
-Currently working on my first "big" hobby project, a Football Manager Simulator written in Java<br>
+Currently working on my first somewhat big hobby project, a Football Manager Simulator written in Java. <br>
+Projects I want to do in the future include:
+- My own programming language
+- My own OS
+- Making games for the Gameboy and NES
+- Making a simple emulator
 
 
 # 💻 Tech Stack:
