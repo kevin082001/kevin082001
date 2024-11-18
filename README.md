@@ -1,10 +1,12 @@
 # 💫 About Me:
-Currently working on my first somewhat big hobby project, a Football Manager Simulator written in Java. <br>
+Ask me any Nintendo-related question and I can probably answer it
+
+I'm currently working on my first somewhat big hobby project, a NES Emulator written in Java. <br>
 Projects I want to do in the future include:
+- Making emulators for other consoles (primarily Nintendo)
+- Making games for NES, SNES and Gameboy
 - My own programming language
 - My own OS
-- Making games for the Gameboy and NES
-- Making a simple emulator
 
 
 # 💻 Tech Stack:
