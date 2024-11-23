@@ -1,12 +1,8 @@
 # 💫 About Me:
-Ask me any Nintendo-related question and I can probably answer it
+Hi, I'm Kevin.<br> I love travelling, learning new languages, gaming and food.<br>
+I went to Indonesia because "I code in Java, so why not visit the real place"<br>
+At the moment I'm working on my first big-ish hobby project, a NES emulator.
 
-I'm currently working on my first somewhat big hobby project, a NES Emulator written in Java. <br>
-Projects I want to do in the future include:
-- Making emulators for other consoles (primarily Nintendo)
-- Making games for NES, SNES and Gameboy
-- My own programming language
-- My own OS
 
 
 # 💻 Tech Stack:
