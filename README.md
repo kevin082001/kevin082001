@@ -1,6 +1,6 @@
 # 💫 About Me:
 Hi, I'm Kevin.<br> I love travelling, learning new languages, gaming and food.<br>
-I went to Indonesia because "I code in Java, so why not visit the real place"<br>
+I went to Indonesia because "I code in Java, so why not visit the real Java"<br>
 At the moment I'm working on my first big-ish hobby project, a NES emulator.
 
 
