@@ -1,6 +1,6 @@
 # 💫 About Me:
 Hi, I'm Kevin.<br> I love travelling, learning new stuff, gaming and food.<br>
-I went to Indonesia because "I code in Java, so why not visit the real Java"<br>
+Once, I didn't know where to go on vacation next, so I thought "Well, I'm a Java dev" and that decided it for me.
 
 
 # 📊 GitHub Stats:
