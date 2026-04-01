@@ -1,8 +1,3 @@
-# 💫 About Me:
-Hi, I'm Kevin.<br> I love travelling, learning new stuff, gaming and food.<br>
-Once, I didn't know where to go on vacation next, so I thought "Well, I'm a Java dev" and that decided it for me.
-
-
 # 📊 GitHub Stats:
 <!--![](https://github-readme-stats.vercel.app/api?username=kevin082001&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>-->
 ![](https://github-readme-streak-stats.herokuapp.com/?user=kevin082001&theme=dark&hide_border=false)<br/>
